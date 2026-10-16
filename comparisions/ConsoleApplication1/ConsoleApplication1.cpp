@@ -18,6 +18,7 @@ int main()
 	bool e = first >= second;
 	bool f = first <= second;
 
+	cout << " ---- COMPARISIONS---- ";
 	cout << "first==second " << a << endl;
 	cout << "first!=second " << b << endl;
 	cout << "first>second " << c << endl;
